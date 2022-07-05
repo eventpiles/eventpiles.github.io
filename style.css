@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background:linear-gradient(45deg, cyan 20%, teal 45%, green 50%, teal 55%, cyan 80%);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+.main{
+  min-height: 100vh;
+}
